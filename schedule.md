@@ -14,9 +14,6 @@ Date   | Topic/Activity | Reading
 ------ | -------------- | -------
 Jan 23 | Course Introduction | [Lecture 1: Course Overview, OOP](lectures/lecture01.html)
 Jan 25 | HTML and CSS<br> HTML and CSS Lab Assigned | [Lecture 2: HTML and CSS](lectures/lecture02.html)<br> [Lab 1: HTML and CSS Lab](./labs/lab01.html)
-
-<!-- Commenting out rest od schedule until it's needed - and the dates will change, anyway
-
 Jan 28 | Web Applications<br> Web Applications Labs Assigned | [Lecture 4: Web Applications](lectures/lecture04.html)
 Jan 30 | Web Applications Lab (in class) | [Lab 2: Web Applications I](./labs/lab02.html)
 Feb 1  | Web Applications II Lab (in class) | [Lab 2a: Web Applications II](./labs/lab02a.html)
@@ -67,4 +64,5 @@ May 13 | **TEAM PROJECT FINAL PRESENTATIONS (Section 103)**<br>Final Exam Period
 May 14 | Team Project Reflection Due<br>Team Project Self / Peer Evaluation Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
 May 15 | **TEAM PROJECT FINAL PRESENTATIONS (Sections 101 & 102)**<br>Final Exam Periods (8:00 to 10:00, 10:15 to 12:15) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 
+<!-- Commenting out rest of schedule until it's needed - and the dates will change, anyway
 -->
