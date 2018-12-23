@@ -8,11 +8,11 @@ CS 320 - Software Engineering and Design
 
 **Spring 2018**
 
-Class times:
+Class times (all in KEC 119):
 
-- Section 101: M/W/F	 9:00 -  9:50 AM in KEC 119
-- Section 102: M/W/F	11:00 - 11:50 AM in KEC 119
-- Section 103: M/W/F	 2:00 -  2:50 PM in KEC 119
+- Section 101: M/W/F	 9:00 -  9:50 AM
+- Section 102: M/W/F	11:00 - 11:50 AM
+- Section 103: M/W/F	 2:00 -  2:50 PM
 
 Instructor:
 
