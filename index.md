@@ -79,7 +79,7 @@ All information about the course will be posted here.
 * **Jan 28** - [Lab02: Web Applications I](labs/lab02.html) is posted.  It is **due by 7:00 am, Thursday, 1-31-19**.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
 
 * **Jan 25** - Assign02: Individual Project Proposal **due by 7:00 am, Saturday, 2-9-19**
-* **Jan 25** - Assign01: Team Project Proposal **due by 7:00 am, Saturday, 2-2-19**
+* **Jan 25** - Assign01: Team Project Proposal **due by 7:00 am, Sunday, 2-3-19**
 * **Jan 25** - Lab01: HTML & CSS **due by 7:00 am, Sunday, 1-27-19**
 
 * **Jan 23** - [Lab 1: HTML and CSS](labs/lab01.html) is posted

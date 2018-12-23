@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Assignments"
+---
+
+This page lists the assignments.
+
+**Note**: For team assignments, only **one** team member should submit the assignment.
+
+Assignment | Type | Due
+---------- | ---- | ---
+[Assignment 1: Team Project Proposal](assign01.html) | Team | Sun, Feb 3rd by 7:00 am
+[Assignment 2: Individual Project Proposal](assign02.html) | Individual | Sat, Feb 9th by 7:00 am
+[Assignment 3: Team Project Milestones](assign03.html) | Team | Multiple (see description)
+[Assignment 4: Individual Project Milestones](assign04.html) | Individual | Multiple (see description)
+[Assignment 5: Use cases](assign05.html) | Team | Sun, Feb 17th by 7:00 am
+[Assignment 6: Problem domain analysis](assign06.html) | Team | Thu, Feb 28th by 7:00 am
+[Assignment 11: Midterm Team Project Self / Peer Evaluation](assign11.html) | Individual | Tue, Apr 9th by 7:00 am
+[Assignment 9: Individual Project Demo](assign09.html) | Individual | Mon, Apr 15th (in class)
+[Assignment 9: Individual Project Deliverables](assign09.html) | Individual | Tue, Apr 16th by 7:00 am
+[Assignment 8: Team Project Code and Report](assign08.html) | Team | Sat, May 11th by 7:00 am
+[Assignment 8: Team Project Presentation and Demo](assign08.html) | Team | Mon, May 13th (section 103 Final Exam Period)
+[Assignment 10: Team Project Reflection](assign10.html) | Individual | Tues, May 14h by 7:00 am
+[Assignment 11: Final Team Project Self / Peer Evaluation](assign11.html) | Individual | Tue, May 14th by 7:00 am
+[Assignment 8: Team Project Presentation and Demo](assign08.html) | Team | Wed, May 15th (sections 101 & 102 Final Exam Period)
+
