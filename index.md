@@ -81,11 +81,10 @@ See [Assignment 8](assign/assign08.html) for the details and guidelines.
 * **Jan 25** - Assign01: Team Project Proposal **due by 7:00 am, Saturday, 2-2-19**
 * **Jan 25** - Lab01: HTML & CSS **due by 7:00 am, Sunday, 1-27-19**
 
-* **Jan 23** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
-* **Jan 23** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
-
 -->
 
+* **Jan 23** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
+* **Jan 23** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
 * **Jan 23** - [Assignment 1](assign/assign01.html) is posted
 * **Jan 23** - [Assignment 2](assign/assign02.html) is posted
 * **Jan 23** - [Class Rosters](teams-and-rosters/index.html) are posted - choose your teams
