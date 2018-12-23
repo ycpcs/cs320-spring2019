@@ -6,7 +6,7 @@ title: Syllabus
 CS 320 - Software Engineering and Design
 ========================================
 
-**Spring 2018**
+**Spring 2019**
 
 Class times (all in KEC 119):
 
