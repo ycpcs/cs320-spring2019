@@ -1,0 +1,13 @@
+baseurl: "/cs320-spring2019"
+
+# Don - Comment out this on Windows (to preview)
+markdown: kramdown
+
+# Don - Comment out this on Windows (to preview)
+highlighter: rouge
+
+coursename: "CS 320"
+
+# Don - Comment out these on Windows (to preview)
+rdiscount:
+  extensions: [smart]
