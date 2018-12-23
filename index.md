@@ -21,7 +21,6 @@ All information about the course will be posted here.
 * [Resources](resources/index.html)
 * [Career Development](careers/index.html)
 * [Practice Exams](practice/index.html)
-* [Activities](activities.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
