@@ -133,15 +133,13 @@ Please refer to the college catalog for an explanation of the official college p
 
 You are allowed to (and expected to) work with the members of your team on team project(s).  I will generally give you explicit permission to use the code supplied through examples, labs, and solutions for your team projects.  In fact, I will encourage you to use that code as a basis for starting your project, if you happen to be working in Java and Eclipse.
 
-You may work with other students on the labs. However, I do expect you to complete and submit them, and they count towards your participation grade.
-
 All quizzes and exams must be completed individually.
 
 Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment to dismissal from the college.
 
 ### Late Assignments
 
-Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.**
+Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.  However, you will still be required to submit a good faith attempt in order to pass the course.**
 
 ### Exams
 
