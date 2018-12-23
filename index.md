@@ -31,9 +31,10 @@ All information about the course will be posted here.
 -->
 
 * **May 6** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each section's final exam period.  These will be 15-20 minute formal presentations:
-	- **section 101 (9:00) - 8:00 to 10:00 on Wednesday, 5-15-19**
-	- **section 102 (11:00) - 10:15 to 12:15 on Wednesday, 5-15-19**
-	- **section 103 (2:00) - 3:00 to 5:00 on Monday, 5-13-19**.
+	- **9:00 section (101) - 8:00 to 10:00 on Wednesday, 5-15-19**
+	- **11:00 section (102) - 10:15 to 12:15 on Wednesday, 5-15-19**
+	- **2:00 section (103) - 3:00 to 5:00 on Monday, 5-13-19**.
+	
 See [Assignment 8](assign/assign08.html) for the details and guidelines.  
 
 * **May 6** - [Assignment 10](assign/assign10.html) is an individual reflection on the team project.  [Assignment 11](assign/assign11.html) is a self/peer evaluation for the team project.  They are both **due by 7:00 am, Tuesday, May 14th**.
