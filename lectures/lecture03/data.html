@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<style type="text/css">
+		td.label {
+			font-weight: bold;
+			text-align: right;
+		}
+		</style>
+
+		<!-- Get jQuery from google CDN -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+		<script type="text/javascript">
+			function getFirstNumber() {
+				return parseFloat($("#firstNumber").val());
+			}
+
+			function getSecondNumber() {
+				return parseFloat($("#secondNumber").val());
+			}
+
+			$(document).ready(function() {
+				$("#addButton").click(function () {
+					$("#result").text(getFirstNumber() + getSecondNumber());
+				});
+				$("#subtractButton").click(function () {
+					$("#result").text(getFirstNumber() - getSecondNumber());
+				});
+				$("#multiplyButton").click(function () {
+					$("#result").text(getFirstNumber() * getSecondNumber());
+				});
+				$("#divideButton").click(function () {
+					$("#result").text(getFirstNumber() / getSecondNumber());
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+		<table>
+			<tr>
+				<td class="label">
+					First number:
+				</td>
+				<td>
+					<input id="firstNumber" type="text" size="15" />
+				</td>
+			</tr>
+			<tr>
+				<td class="label">
+					Second number:
+				</td>
+				<td>
+					<input id="secondNumber" type="text" size="15" />
+				</td>
+			</tr>
+			<tr>
+				<td class="label">
+					Result:
+				</td>
+				<td>
+					<span id="result"></span>
+				</td>
+			</tr>
+		</table>
+
+		<button id="addButton">Add</button>
+		<button id="subtractButton">Subtract</button>
+		<button id="multiplyButton">Multiply</button>
+		<button id="divideButton">Divide</button>
+	</body>
+</html>
+

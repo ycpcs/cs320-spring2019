@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<style type="text/css">
+		#clickhere {
+			width: 120px;
+			background-color: #80ff80;
+			color: #000080;
+			font-size: 150%;
+			font-weight: bold;
+			border: 4px solid #000080;
+			margin-bottom: 10px;
+		}
+
+		#sometext {
+			display: none; /* hide this div initially */
+			background-color: #FAFAD2;
+			font-style: italic;
+			padding: 6px;
+			border: 1px solid black;
+		}
+		</style>
+
+		<!-- Get jQuery from google CDN -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("#clickhere").click(function() {
+					$("#sometext").slideToggle();
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+		<div id="clickhere">
+			Click here!
+		</div>
+
+		<div id="sometext">
+			Oh freddled gruntbuggly<br />
+			thy micturations are to me<br />
+			As plurdled gabbleblotchits on a lurgid bee.<br />
+			Groop I implore thee, my foonting turlingdromes.<br />
+			And hooptiously drangle me with crinkly bindlewurdles,<br />
+			Or I will rend thee in the gobberwarts with my blurglecruncheon, see if I don't!
+		</div>
+	</body>
+</html>
+
