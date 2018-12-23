@@ -28,6 +28,8 @@ All information about the course will be posted here.
 
 <!-- Commenting out News until it's needed - and the dates will change, anyway
 
+-->
+
 * **May 6** - [Team Project Final Presentation and Demonstration](assign/assign08.html) is schedule for each sections final exam period.  This will be a 15-20 minute formal presentation:
 - **section 101 (9:00) - from 8:00 to 10:00 on Wednesday, 5-15-19**
 - **section 102 (11:00) - from 10:15 to 12:15 on Wednesday, 5-15-19**
@@ -80,8 +82,6 @@ See [Assignment 8](assign/assign08.html) for the details and guidelines.
 * **Jan 25** - Assign02: Individual Project Proposal **due by 7:00 am, Saturday, 2-9-19**
 * **Jan 25** - Assign01: Team Project Proposal **due by 7:00 am, Saturday, 2-2-19**
 * **Jan 25** - Lab01: HTML & CSS **due by 7:00 am, Sunday, 1-27-19**
-
--->
 
 * **Jan 23** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
 * **Jan 23** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
