@@ -121,11 +121,11 @@ The college catalog states the following:
 
 Please refer to the college catalog for an explanation of the official college policies relating to academic integrity.
 
-**The following policy pertains to homework and graded (individual) programming assignments in this course:**
+**The following policy pertains to homework and graded (individual) programming assignments/labs in this course:**
 
-> All homework assignments and graded (individual) programming assignments are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
+> All homework assignments and graded (individual) programming assignments/labs are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 >
-> Because the individual assignments are essential for working towards and demonstrating the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
+> Because the individual assignments/labs are essential for working towards and demonstrating the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
 >
 > Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
 >
