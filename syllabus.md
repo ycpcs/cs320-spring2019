@@ -16,7 +16,7 @@ Class times (all in KEC 119):
 
 Instructor:
 
--   [Donald Hake](http://www.ycp.edu/academics/academic-departments/engineering-and-computer-science/faculty-and-staff/department-employee-records/name-32407-en.html), <djhake2@ycp.edu>, KEC 137, 815-6587<br /> Office Hours: M/W/F 10:00-11:00, W/F 1:00-2:00, and by appointment
+-   [Donald Hake](https://www.ycp.edu/academics/kinsley-school-of-engineering-sciences-and-technology/faculty/hake-ii-donald-j.html), <djhake2@ycp.edu>, KEC 137, 815-6587<br /> Office Hours: M/W/F 10:00-11:00, W/F 1:00-2:00, and by appointment
 
 Course Description
 ------------------
