@@ -79,7 +79,7 @@ Your overall grade for the course will be determined as follows:
 -   Midterm exam: 15%
 -   Attendance and participation: 5%
 
-**(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment is grounds for receiving a reduced grade for the course.  You will be penalized 5% points off your course grade for each lab/assignment for which you do not submit a good faith attempt by Sunday, March 31, 2019.**
+**(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment or lab is grounds for receiving a reduced grade for the course.  You will be penalized 5% points off your course grade for each lab/assignment for which you do not submit a good faith attempt by Sunday, March 31, 2019.**
 
 **(\*) You must make a substantial *technical* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, and organization, are important, you must also make a substantial contribution to the design and implementation of the software. I reserve the right to assign a reduced or failing grade for the course to any student who does not do this.**
 
