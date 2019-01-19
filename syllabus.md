@@ -79,7 +79,7 @@ Your overall grade for the course will be determined as follows:
 -   Midterm exam: 15%
 -   Attendance and participation: 5%
 
-**(&dagger;) You must make a good faith effort to complete all of the labs and assignments in order to pass the course.  Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.**
+**(&dagger;) You must make a good faith effort to complete all of the labs and assignments.  Failure to submit a good faith attempt for any assignment is grounds for receiving a reduced grade for the course.  You will be penalized 5% points off you course grade for each lab/assignment for which you do not submit a good faith attempt by Sunday, March 31, 2019.**
 
 **(\*) You must make a substantial *technical* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, and organization, are important, you must also make a substantial contribution to the design and implementation of the software. I reserve the right to assign a reduced or failing grade for the course to any student who does not do this.**
 
@@ -137,9 +137,9 @@ All quizzes and exams must be completed individually.
 
 Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment to dismissal from the college.
 
-### Late Assignments
+### Late Assignments and Labs
 
-Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.  However, you will still be required to submit a good faith attempt in order to pass the course.**
+Late assignments and labs will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.  However, you must still submit a good faith attempt for each assignment and lab.  Failure to do so is grounds for receiving a reduced course grade.  You will be penalized 5% points off your course grade for each assignment/lab for which you do not submit a good faith attempt by Sunday, March 31, 2019.**
 
 ### Exams
 
