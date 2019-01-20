@@ -98,20 +98,22 @@ CS320 Library Example Project
 
 > <div class="callout"><b>NOTE: You are free to incorporate any of this code into your project(s) - as long as you cite the source.</b></div>
 
-After you download the ZIP file, extract it into a new Java workspace separate from the others that you have used in the past.  This project is composed of 4 separate Java projects (**CS320_Jetty**, **CS320_Derby**, **CS320_Lab02**, and **CS320_Lab06**).
+After you download the ZIP file, extract it into a new Java workspace separate from the others that you have used in the past.  This project is composed of 4 separate Java projects (**CS320_Jetty**, **CS320_Derby**, **CS320_LibraryExample_Lab02**, and **CS320_LibraryExample_Lab06**).
 
-Before running the project, open up **DerbyDatabase.java** under **CS320_Lab06->src->edu.ycp.cs320.booksdb.persist** and edit the Derby database location in the **connect()** method so that it has the absolute path where your workspace is located.  Do the same thing in **SQLDemo.java** in the **main()** method.  If you don't change it, the default database location will be **C:/CS320-2019/**.
+Before running the project, open up **DerbyDatabase.java** under **CS320_LibraryExample_Lab06->src->edu.ycp.cs320.booksdb.persist** and edit the Derby database location in the **connect()** method so that it has the absolute path where you want your database to be located.  Do the same thing in **SQLDemo.java** in the **main()** method.  If you don't change it, the default database location will be **C:/CS320-2019-LibraryExample-DB/**.
 
-Run **DerbyDatabase.java** as an application to create the Library database from the **authors.csv**, **books.csv**, and **bookAuthors.csv** files. It might take a few seconds for the application to create the DB - you will see it in the console.  Afterwards, **library.db** will show up as a folder under the **CS320-2019** folder.  If you have made the suggested changes to the location of your database, that is where your database files will be located.
+**DO NOT LOCATE YOUR DATABASE WITHIN THE LibraryExample PROJECT.**  You will likely be using the LibraryExample as the basis for your team project, and placing the database within the project will eventually result in numerous Git conflicts when you start working as a team from a common Git repository.
 
-Run **SQLDemo.java** as an application so that you can issue SQL queries to the Library DB.  If this step works - if you can issue queries and SQLDemo can locate the DB - then you have correctly updated the two files from above.
+Run **DerbyDatabase.java** as an application to create the Library database from the **authors.csv**, **books.csv**, and **bookAuthors.csv** files. It might take a few seconds for the application to create the DB - you will see it in the console.  Afterwards, **library.db** will show up as a folder under the **C:/CS320-2019-LibraryExample-DB/** folder.  If you changed the LibraryExample database location, you will find **library.db** at that location.
 
-To run the web application, first stop **SQLDemo**, then run **CS320_Lab02->Main.java** as a Java application, followed by entering the following URL in your web browser:
+Run **SQLDemo.java** as an application so that you can issue SQL queries to the LibraryExample DB.  If this step works - if you can issue queries and SQLDemo can locate the DB - then you have correctly updated the two Java source files from above.
+
+To run the web application, first stop **SQLDemo**, then run **CS320_LibraryExample_Lab02->Main.java** as a Java application, followed by entering the following URL in your web browser:
 
 > [http://localhost:8081/lab02/login](http://localhost:8081/lab02/login)
 
 There are currently two sets of login credentials hard-coded into the application: User name: **student** with PW: **ycp** and User name: **faculty** with PW: **E&CS**.  After you have successfully logged in, the user name will be passed around as part of the Session information, and each subsequent servlet checks for a valid **Session** (a non-null "user" attribute) before responding to the request.  Note that this is **NOT** a secure method for handling credentials, but is used as an example for passing around and checking **Session** information.
 
-**Note: You will receive an Academic Integrity Violation, as well as automatically fail this course, if you submit any portion of this code as part of your Lab06 - ORM solution.**
+**You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
 
 -->
