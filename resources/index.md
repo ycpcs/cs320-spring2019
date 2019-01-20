@@ -96,7 +96,7 @@ CS320 Library Example Project
 
 [CS320\_LibraryExample-2019.zip](CS320_LibraryExample-2019.zip): Eclipse project that ties the [Web Applications Lab](../labs/lab02.html) together with the [ORM Lab](../labs/lab06.html).  This application places a web front-end on the SQL transactions from Lab06, as well as provides examples for creating a Derby database from CSV files, how to use session information after login, and how to use JSTL to display a list of complex objects in a JSP.  It has been updated to incorporate a many-to-many (M2M) relationship between **Books** and **Authors**, using a junction table (**booksAuthors**) that cross-references **book_id**'s with **author_id**'s.  It also contains some basic (non-exhaustive) JUnit Tests for testing the Derby database queries.
 
-> <div class="callout"><b>NOTE: You are free to incorporate any of this code into your project(s) - as long as you cite the source.</b></div>
+> <div class="callout"><b>NOTE: You are free to incorporate any of this code into your team project(s) - as long as you cite the source.</b></div>
 
 After you download the ZIP file, extract it into a new Java workspace separate from the others that you have used in the past.  This project is composed of 4 separate Java projects (**CS320_Jetty**, **CS320_Derby**, **CS320_LibraryExample_Lab02**, and **CS320_LibraryExample_Lab06**).
 
