@@ -89,7 +89,7 @@ Email address validation
 
 [A Java email validator class using regex (regular expressions)](https://www.mkyong.com/regular-expressions/how-to-validate-email-address-with-regular-expression/)
 
-<!-- Commenting out Library Example until it's needed
+
 
 CS320 Library Example Project
 =============================
@@ -116,4 +116,5 @@ There are currently two sets of login credentials hard-coded into the applicatio
 
 **You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
 
+<!-- Commenting out Library Example until it's needed
 -->
