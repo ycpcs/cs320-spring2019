@@ -102,7 +102,7 @@ After you download the ZIP file, extract it into a new Java workspace separate f
 
 Before running the project, open up **DerbyDatabase.java** under **CS320_LibraryExample_Lab06->src->edu.ycp.cs320.booksdb.persist** and edit the Derby database location in the **connect()** method so that it has the absolute path where you want your database to be located.  Do the same thing in **SQLDemo.java** in the **main()** method.  If you don't change it, the default database location will be **C:/CS320-2019-LibraryExample-DB/**.
 
-**DO NOT LOCATE YOUR DATABASE WITHIN THE LibraryExample PROJECT.**  You will likely be using the LibraryExample as the basis for your team project, and placing the database within the project will eventually result in numerous Git conflicts when you start working as a team from a common Git repository.
+**DO NOT LOCATE YOUR DATABASE WITHIN THE LibraryExample PROJECT.**  You will likely be using the LibraryExample as the basis for your team project, and placing the database within the project will eventually result in numerous **Git** conflicts when you start working as a team from a common **Git** repository.
 
 Run **DerbyDatabase.java** as an application to create the Library database from the **authors.csv**, **books.csv**, and **bookAuthors.csv** files. It might take a few seconds for the application to create the DB - you will see it in the console.  Afterwards, **library.db** will show up as a folder under the **C:/CS320-2019-LibraryExample-DB/** folder.  If you changed the LibraryExample database location, you will find **library.db** at that location.
 
