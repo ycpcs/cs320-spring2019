@@ -114,7 +114,7 @@ To run the web application, first stop **SQLDemo**, then run **CS320_LibraryExam
 
 There are currently two sets of login credentials hard-coded into the application: User name: **student** with PW: **ycp** and User name: **faculty** with PW: **E&CS**.  After you have successfully logged in, the user name will be passed around as part of the Session information, and each subsequent servlet checks for a valid **Session** (a non-null "user" attribute) before responding to the request.  Note that this is **NOT** a secure method for handling credentials, but is used as an example for passing around and checking **Session** information.
 
-**You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
+**WARNING: You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from any version of the LibraryExample Project that has ever been provided as part of this course.**
 
 <!-- Commenting out Library Example until it's needed
 -->
