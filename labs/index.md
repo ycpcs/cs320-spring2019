@@ -18,6 +18,16 @@ Tuesday, March 12, by 7:00 am | [Lab 4: SQL, Queries, Joins](lab04.html) |  [CS3
 Saturday, March 16, by 7:00 am | [Lab 5: JDBC](lab05.html) | [CS320\_Lab05.zip](CS320_Lab05.zip)
 Saturday, March 23, by 7:00 am | [Lab 6: ORM](lab06.html) | [CS320\_Lab06.zip](CS320_Lab06.zip)
 
-**You will not pass this course without completing and submitting good faith attempts on all of the labs (with the exception of the Git Lab (Lab03), which we will do in class)**.
+All of the above labs, with the exception of Lab03 (Git Lab) are to be completed individually. I encourage you to discuss high level concepts and strategies with other students, but any work you submit **must be yours alone**.
 
-**You will also automatically fail the course, as well as receive an Academic Integrity Violation, if you submit work that was completed by someone else, and/or submit any portion of code taken from the Library Example Project that I provide as part of the course.**
+Because these labs are essential for working towards and demonstrating the capability to provide a significant technical contribution to your team project, as well the achievement of the course outcomes, you must solve them on your own.  You may discuss the problem and high-level (pseudo-code) approaches to solving the problem with other students.  You may *not*, under any circumstances, discuss or share concrete implementation techniques or code.  Examples of forbidden types of collaboration include, but are not limited to: looking at another student's code, allowing another student to see your code, viewing and/or using code from an external source such as a web page, discussing the use of specific API functions to solve a problem, giving or receiving help debugging specific code.
+
+Direct copying of code or other work from other students, web sites, or other sources **is absolutely forbidden under any circumstances**.
+
+Any sources (books, websites, articles, fellow students, etc.) that you consult in completing an assignment **must be properly acknowledged**. In general, I strongly discourage you from using any resource not explicitly listed in the course syllabus or on the course web page. When you work on a programming assignment, it must be **your** program, not your adaptation of someone else's program.
+
+Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment to dismissal from the college.
+
+Late labs will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.  However, you must still submit a good faith attempt for each lab.  Failure to do so is grounds for receiving a reduced course grade.  You will be penalized 5% points off your course grade for each lab for which you do not submit a good faith attempt by Sunday, March 31, 2019.**
+
+**With regards to Lab06 (ORM) - it is the most important lab in this course.  Each year, I provide a basic website example built from Lab02 (Web Applications) and Lab06 (ORM) called The LibraryExample.  I will do this again this year on Monday, April 1, 2019 (2 weeks after Lab06 is due).  You will receive an Academic Integrity Violation, as well as automatically fail the course, if you submit code as part of your Lab06 solution that was taken from the any previous or current LibraryExample Project that I provide as part of this course.**
