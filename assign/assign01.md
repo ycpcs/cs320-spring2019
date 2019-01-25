@@ -12,9 +12,9 @@ Project Proposal
 
 Your main task this semester is to complete a semester-long team software project. Your task in this assignment is to form your team and decide what your project will be.
 
-In a 2-3 page document, describe the following:
+In a 3-4 page document, describe the following:
 
-**Who are your team members?** You must have at least 2 but not more than 4.
+**Who are your team members?** You must have at least 3 but not more than 4.
 
 **Briefly describe the system your team will create.** Please note the following important requirements:
 

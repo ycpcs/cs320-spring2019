@@ -50,7 +50,7 @@ system you create should do something interesting.
 Proposal Format
 ===============
 
-Your proposal should be 1-2 pages, and contain the following information:
+Your proposal should be 2-3 pages, and contain the following information:
 
 * Description of your project
 * List one or more technologies related to software development that you
