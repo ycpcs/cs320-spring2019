@@ -34,10 +34,9 @@ Some possible examples:
 * Learn about programming embedded systems and hardware interfacing, 
   e.g., AVR, Arduino, and then use it in a hardware project (a data logger,
   robot, etc.)
-* Contact the Radio Telescope team and learn how to develop in the languages, platforms, and tools, they are using for that project.  This would prepare you to work on that project when you reach CS481/CS482 - Senior Design I and II.
+* Contact the **Radio Telescope team** and learn how to develop in the languages, platforms, and tools they are using for that project.  This would prepare you to work on that project when you reach CS481/CS482 - Senior Design I and II.
 * Learn how to deploy and host a website through Amazon Web Services (AWS)
   
-
 These are just examples: I encourage you to be creative and
 think of something that interests you personally.  The most important
 requirement is that you should learn something new!
@@ -47,7 +46,7 @@ Scope
 
 The project should be smaller in scope than your team project:
 the purpose is more to learn something new than to create a substantial
-software system.  However, your project must be nontrivial: the
+software system.  However, your project must be non-trivial: the
 system you create should do something interesting.
 
 Proposal Format
@@ -65,7 +64,7 @@ Here is the template for your [Individual Project Proposal](CS320_Individual_Pro
 Submitting
 ==========
 
-Create a folder in Google Drive named "CS320-IndProject-username", replacing "username" with your YCP user name, and place it in the shared Google **Individual Projects** folder under your section of CS320 that I previously shared with you.
+Create a folder in Google Drive named "CS320-IndProject-username", replacing "username" with your YCP user name, and place it in the shared Google **CS320-Spring2019 [students]** folder under your section of CS320 that I previously shared with you.
 
 This folder will be your means of submission for all **non-programming-related individual** assignments.
 
