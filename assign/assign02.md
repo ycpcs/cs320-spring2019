@@ -27,13 +27,16 @@ Some possible examples:
 
 * Learn a new programming environment, e.g. C#, .NET, and MS Visual Studio; Android and IntelliJ; Python, PyCharm, and Pygame
 * Learn a new programming language, e.g., Clojure, Scala, Erlang
-  and write a nontrivial program in that language
-* Learn about Javascript and AJAX for rich web client interfaces,
-  develop a web application
+  and write a non-trivial program in that language
+* Learn about JavaScript (JS) and AJAX for rich web client interfaces,
+  develop a web application.  Thee are many forms of JS from which to choose
 * Try developing your own website using Grails or Ruby on Rails
 * Learn about programming embedded systems and hardware interfacing, 
   e.g., AVR, Arduino, and then use it in a hardware project (a data logger,
   robot, etc.)
+* Contact the Radio Telescope team and learn how to develop in the languages, platforms, and tools, they are using for that project.  This would prepare you to work on that project when you reach CS481/CS482 - Senior Design I and II.
+* Learn how to deploy and host a website through Amazon Web Services (AWS)
+  
 
 These are just examples: I encourage you to be creative and
 think of something that interests you personally.  The most important
