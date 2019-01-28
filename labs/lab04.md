@@ -99,4 +99,6 @@ Create a text file named **lab04-username.txt** (replace "username" with your YC
 
 You can cut and paste your queries and results from the console window as shown in the example above.  If you create and populate this file as you do the lab, you'll be able to copy the queries back into the SQL> window to repeat, test, and modify them.  You will also reuse the steps to add a new book (and author) to the database in lab05.
 
-Upload your solution text file to Marmoset in the **lab04** project.
+Upload your solution text file to the **Lab04** project on the Marmoset server. The server URL is
+
+> [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)

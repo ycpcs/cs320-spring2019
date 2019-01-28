@@ -14,7 +14,7 @@ The lab contains a database called **test.db**, which is the [books database fro
 
 Task
 ====
-**NOTE: You MUST refactor the name of the **CS320_Lab05** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+**NOTE:** You MUST refactor the name of the **CS320_Lab05** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.
 
 Example: If I was submitting this lab, I would refactor the **CS320\_Lab05** project to **CS320\_Lab05\_djhake2** as soon as I imported the project into Eclipse.
 
