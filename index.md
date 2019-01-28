@@ -70,6 +70,8 @@ All information about the course will be posted here.
 
 * **Feb 11** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00 am, Sunday, 2-17-19**.
 
+-->
+
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 28** - [Lab02a: Web Applications II](labs/lab02a.html) is posted.  It is **due by 7:00 am, Sunday, 2-10-19**.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
@@ -78,8 +80,6 @@ All information about the course will be posted here.
 * **Jan 25** - Assign02: Individual Project Proposal **due by 7:00 am, Saturday, 2-9-19**
 * **Jan 25** - Assign01: Team Project Proposal **due by 7:00 am, Sunday, 2-3-19**
 * **Jan 25** - Lab01: HTML & CSS **due by 7:00 am, Sunday, 1-27-19**
-
--->
 
 * **Jan 23** - [Lab 1: HTML and CSS](labs/lab01.html) is posted
 * **Jan 23** - Please see the **Projects** page for [Some Possible Team Projects](projects/index.html)
