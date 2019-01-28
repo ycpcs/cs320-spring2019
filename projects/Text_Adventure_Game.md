@@ -7,7 +7,7 @@ Project Summary
 ===============
 Design and develop a platform for creating and playing text-based adventure games, AKA interactive fiction, as described for [Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure), the first such game of its kind.  In order to fully understand the concept, as well as the endless possibilities, you should first study the history of the early interactive fiction games, as well as locate an implementation that you can play, to familiarize yourself with the genre.
 
-The game is based upon a player traversing a "map": a collection of locations (rooms), the connections between those rooms, and the commands to move between rooms.  As the player traverses the map, they collect treasures, and are confronted with a number of problems they must solve in order to continue to make progress in the game.  The goal is to traverse as much of the map as possible, collecting as much treasure as possible, removing the treasure to a safe location, and surviving the adventure, while scoringas many points as possible.
+The game is based upon a player traversing a "map": a collection of locations (rooms), the connections between those rooms, and the commands to move between rooms.  As the player traverses the map, they collect treasures, and are confronted with a number of problems they must solve in order to continue to make progress in the game.  The goal is to traverse as much of the map as possible, collecting as much treasure as possible, removing the treasure to a safe location, and surviving the adventure, while scoring as many points as possible.
 
 Basic Requirements
 ==================
@@ -42,10 +42,25 @@ There should also be a method for saving and restoring the game state, and keepi
 
 The database for the program will consist of all of the above.
 
-Extensible Features
-===================
+You MUST create your map, plot, and narrative - you cannot copy another text-based adventure game.  You should initialize all of the above lists from text-based CSV files that will initially hold your data.  You will use those CSV files to initialize/recreate your database, and to edit/extend your game.
 
-The project should not only allow the user to play an established "default" game, it should also allow the user to extend that game by adding:
+User Interface
+==============
+
+Finally, in addition to the console that accepts keyboard input and displays the text of the game, the game should have a user interface that allows the user to see their score, their health, their current posessions, the treasures they have gathered, the creatures they have "dispatched", etc.
+
+Stretch Goals
+=============
+
+For the truly motivated, here are some stretch goals:
+
+* Have the game be able to produce a graphical map for the player of all the locations that they have visited - while excluding those locations that they have not yet encountered.
+
+* Add functionality for a multi-player game - where more than one player can be active in the same game at one time.  You will also need to take into account possible interactions between the players.
+
+* Add pictures and graphics for the various agents, actors, rooms, and objects of the game.
+
+Extensible Features - The project should not only allow the user to play an established "default" game, it should also allow the user to extend that game by adding:
 
 * Locations (rooms) to the games's "map"
 
@@ -59,12 +74,7 @@ The project should not only allow the user to play an established "default" game
 
 * Scoring metrics associated with the above
 
-User Interface
-==============
-
-Finally, in addition to the console that accepts keyboard input and displays the text of the game, the game should have a user interface that allows the user to see their score, their health, their current posessions, the treasures they have gathered, the creatures they have "dispatched", etc.
-
-In addition, there should be a user interface that facilitates the user creating/extending the game.  In fact, this will be the means by which you can create your initial game for testing and playing purposes:
+Extend the user interface to facilitate creating/extending the game, as above.  In fact, this could be the means by which you can create your initial game for testing and playing purposes:
 
 * Creating and connecting new rooms to the map
 
@@ -79,12 +89,3 @@ In addition, there should be a user interface that facilitates the user creating
 * Assigning point values for the above
 
 * Editing the existing components
-
-Stretch Goals
-=============
-
-* Have the game be able to produce a graphical map for the player of all the locations that they have visited - while excluding those locations that they have not yet encountered.
-
-* Add functionality for a multi-player game - where more than one player can be active in the same game at one time.  You will also need to take into account possible interactions between the players.
-
-* Add pictures and graphics for the various agents, actors, rooms, and objects of the game.

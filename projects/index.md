@@ -9,8 +9,8 @@ This page lists some possible team project ideas.  I will expand this as project
 
 * [Ted Talk Reviews](TED_Talk_Reviews_CS_Project.pdf): Dr. Scott Hamilton (CivE Coordinator - KEC 100) will serve as your client.  See him for more details.
 
-* [Text-Based Adventure Game](Text_Adventure_Game.html): See Professor Hake for more details.
+* [Text-Based Adventure Game](Text_Adventure_Game.html): See Professor Hake if you have questions.
 
-* [YCP E&CS Student Project Database](YCP_ECS_Student_Project_DB.html): See Professor Hake for more details.
+* [YCP E&CS Student Project Database](YCP_ECS_Student_Project_DB.html): See Professor Hake if you have questions.
 
-* [YCP Personalized Commencement Project](Personalized_Commencement_Project.html): See Professor Hake for more details.
+* [YCP Personalized Commencement Project](Personalized_Commencement_Project.html): See Professor Hake if you have questions.
