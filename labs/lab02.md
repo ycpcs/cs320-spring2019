@@ -10,6 +10,10 @@ Import [CS320\_Jetty9.zip](CS320_Jetty9.zip) and [CS320\_Lab02.zip](CS320_Lab02.
 
 You should see two new projects in your workspace, **CS320\_Jetty9** and **CS320\_Lab02**.
 
+**NOTE: Now refactor the name of the project to include your username - YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+
+Example: I would refactor the CS320_Lab02 project in Eclipse to **CS320\_Lab02\_djhake2** as soon as I imported the project into Eclipse.
+
 See **AddNumbers.java**, **\_view/addNumbers.jsp**, and **AddNumbersServlet.java** to understand how the model, view, and servlet classes work for the AddNumbers example.
 
 To run the AddNumbers webapp, run **Main.java** as a Java application and enter the following URL in your web browser:
@@ -43,7 +47,7 @@ When you are done, submit the lab to the Marmoset server using the method below.
 From a web browser
 ------------------
 
-Save the project (**CS320\_Lab02**) to a zip file by right-clicking it and choosing
+Save the project (**CS320\_Lab02\_username**) to a zip file by right-clicking it and choosing
 
 > **Export...&rarr;Archive File**
 

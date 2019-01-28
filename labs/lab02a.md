@@ -14,7 +14,11 @@ This lab builds upon the **AddNumbers** and **GuessingGame** examples from [CS32
 
 You have six tasks:
 
-* First, make a copy of the **CS320_Lab02** project, and then refactor the copy so that it no longer refers to **Lab02**, but instead, refers to your YCP user name.  Your project name will be **CS320\_username**.  After you refactor the project name, you will also need to refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with your username.  You should save those new URLs as bookmarks in your browser.
+* First, make a copy of the **CS320\_Lab02_username** project, and then refactor the copy so that it refers to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+
+Example: I would refactor the copy of my **CS320\_Lab02\_djhake** project in Eclipse to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
+
+After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
 
 * Add a third number to the **AddNumbers** example, such that a third number field shows up on the **AddNumbers** web page, and the returned result is the sum of all three numbers.  Your code should check for the same errors as the existing **AddNumbers** example does.  This problem will require changes to the **AddNumbers** servlet, controller, and JSP.
 
@@ -38,7 +42,7 @@ When you are done, submit the lab to the Marmoset server using the method below.
 From a web browser
 ------------------
 
-Save your project (**CS320\_username**) to a zip file by right-clicking it and choosing
+Save your project (**CS320\_Lab02a\_username**) to a zip file by right-clicking it and choosing
 
 > **Export...&rarr;Archive File**
 
