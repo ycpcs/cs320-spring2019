@@ -14,9 +14,9 @@ This lab builds upon the **AddNumbers** and **GuessingGame** examples from [CS32
 
 You have six tasks:
 
-* First, make a copy of the **CS320\_Lab02_username** project, and then refactor the copy so that it refers to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+* First, make a copy of the **CS320\_Lab02_username** project, and then refactor that copy to **CS320\_Lab02a\_username**.  YOU MUST DO THIS BEFORE YOU EXPORT YOUR SOLUTION AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: I would refactor the copy of my **CS320\_Lab02\_djhake** project in Eclipse to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
+Example: I would refactor the copy of my **CS320\_Lab02\_djhake2** project to **CS320\_Lab02a\_djhake2** as soon as I imported the project into Eclipse.
 
 After you refactor the project name, refactor the package names, change the locations specified in **Web.xml** and the JSP's, as well as the context folder specified in **main()** so that they all refer to **lab02a\_username**. Verify that both of the **AddNumbers** and **GuessingGame** WebApps still work - you will no longer be able to use the URL links included on the **CS320\_Lab02** page, you will need to modify those URLs to replace **lab02** with **lab02a\_username**.  You should save those new URLs as bookmarks in your browser.
 
@@ -46,8 +46,7 @@ Save your project (**CS320\_Lab02a\_username**) to a zip file by right-clicking 
 
 > **Export...&rarr;Archive File**
 
-
-Upload the saved zip file to the Marmoset server as **lab02a**. The server URL is
+Upload the saved zip file to the **Lab02a** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
 

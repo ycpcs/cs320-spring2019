@@ -7,9 +7,9 @@ title: "Lab 6: ORM"
 
 Download [CS320\_Lab06.zip](CS320_Lab06.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab06** in the Package Explorer.   (You will also need to have the **CS320_Derby** project in your workspace, which should already be there from [Lab 4](lab04.html).)
 
-**NOTE: You MUST refactor the name of the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+**NOTE: You MUST refactor the name of the **CS320\_Lab06** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: If I was submitting Lab06, I would refactor the CS320\_Lab06 project in Eclipse to **CS320\_Lab06\_djhake2** as soon as I imported the project into Eclipse.
+Example: If I was submitting Lab06, I would refactor the **CS320\_Lab06** project to **CS320\_Lab06\_djhake2** as soon as I imported the project into Eclipse.
 
 Start by creating **test.db**, which is the [books database from Lecture 13](../lectures/lecture13.html).  Execute the **DerbyDatabase** class as a Java application: you should see the following output:
 
@@ -59,7 +59,6 @@ Save your project (**CS320\_lab06\_username**) to a zip file by right-clicking i
 
 > **Export...&rarr;Archive File**
 
-
-Upload the saved zip file to the Marmoset server as **lab06**. The server URL is
+Upload the saved zip file to the **Lab06** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)

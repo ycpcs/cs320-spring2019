@@ -14,9 +14,9 @@ The lab contains a database called **test.db**, which is the [books database fro
 
 Task
 ====
-**NOTE: You MUST refactor the name of the project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
+**NOTE: You MUST refactor the name of the **CS320_Lab05** project to include your username - BEFORE YOU EXPORT IT AND SUBMIT IT TO MARMOSET.  Submissions that DO NOT adhere to that guideline will not be graded until they are refactored and resubmitted.**
 
-Example: If I was submitting Lab05, I would refactor the CS320\_Lab05 project in Eclipse to **CS320\_Lab05\_djhake2** as soon as I imported the project into Eclipse.
+Example: If I was submitting this lab, I would refactor the **CS320\_Lab05** project to **CS320\_Lab05\_djhake2** as soon as I imported the project into Eclipse.
 
 In the lab skeleton you will find a program called **TitleQuery** which demonstrates basic JDBC tasks such as loading a driver, connecting to a database, creating and executing a prepared statement, and iterating through results returned from a query.
 
@@ -40,7 +40,6 @@ Save your project (**CS320\_lab05\_username**) to a zip file by right-clicking i
 
 > **Export...&rarr;Archive File**
 
-
-Upload the saved zip file to the Marmoset server as **lab05**. The server URL is
+Upload the saved zip file to the **Lab05** project on the Marmoset server. The server URL is
 
 > [https://cs.ycp.edu/marmoset/](https://cs.ycp.edu/marmoset/)
