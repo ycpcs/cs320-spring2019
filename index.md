@@ -72,6 +72,8 @@ All information about the course will be posted here.
 
 -->
 
+* **Jan 30** - The [Lab02: Web Applications I](labs/lab02.html) due date has been moved to **7:00 am, Saturday, 2-2-19**.  If you submit by the original due date (**due by 7:00 am, Thursday, 1-31-19**), you will receive 110% credit.
+
 * **Jan 28** - [Assignment 4](assign/assign04.html) describes the expectations for the individual project milestones.
 * **Jan 28** - [Assignment 3](assign/assign03.html) describes the expectations for the team project milestones.
 * **Jan 28** - [Lab02a: Web Applications II](labs/lab02a.html) is posted.  It is **due by 7:00 am, Sunday, 2-10-19**.  Please also see the [WebApps Notes](labs/lab02_notes.html) for additional information about setting up the lab.
