@@ -70,6 +70,8 @@ All information about the course will be posted here.
 
 -->
 
+* **Feb 15** - [Assignment 5: Team Use Cases](assign/assign05.html) **due date moved to Monday, 2-18-19, by 7:00 am**.
+
 * **Feb 11** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00 am, Sunday, 2-17-19**.
 
 * **Jan 30** - The [Lab02: Web Applications I](labs/lab02.html) due date has been moved to **7:00 am, Saturday, 2-2-19**.  If you submit by the original due date (**due by 7:00 am, Thursday, 1-31-19**), you will receive 110% credit.
