@@ -64,15 +64,13 @@ All information about the course will be posted here.
 
 * **Feb 20** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, March 18th**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
-* **Feb 20** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) is **due by 7:00, Thursday, 2-28-19**
-
-* **Feb 15** - For the in-class presentations of your group's work-in-progress analysis models on Friday (2-22-19): please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).
-
 -->
 
-* **Feb 15** - [Assignment 5: Team Use Cases](assign/assign05.html) **due date moved to Monday, 2-18-19, by 7:00 am**.
+* **Feb 20** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) **due date moved to Saturday, 3-2-19, by 7:00 am**
 
-* **Feb 11** - [Assignment 5: Team Use Cases](assign/assign05.html) is **due by 7:00 am, Sunday, 2-17-19**.
+* **Feb 15** - For creating your UML diagrams for your group's work-in-progress analysis models on Friday (2-22-19): please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, as long as those tools can export PDF versions of the UML diagram.
+
+* **Feb 15** - [Assignment 5: Team Use Cases](assign/assign05.html) **due date moved to Monday, 2-18-19, by 7:00 am**.
 
 * **Jan 30** - The [Lab02: Web Applications I](labs/lab02.html) due date has been moved to **7:00 am, Saturday, 2-2-19**.  If you submit by the original due date (**due by 7:00 am, Thursday, 1-31-19**), you will receive 110% credit.
 
