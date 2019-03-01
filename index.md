@@ -66,7 +66,7 @@ All information about the course will be posted here.
 
 -->
 
-* **Feb 20** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) **due date moved to Saturday, 3-2-19, by 7:00 am**
+* **Feb 27** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) **due date moved to Monday, 3-4-19, by 7:00 am**
 
 * **Feb 15** - For creating your UML diagrams for your group's work-in-progress analysis models on Friday (2-22-19): please use [Violet UML](http://alexdp.free.fr/violetumleditor/page.php) to create a nicely-formatted electronic version of your team's model.  You can download the jarfile from the [Resources Page](resources/index.html).  You may also use other drawing tools, as long as those tools can export PDF versions of the UML diagram.
 
