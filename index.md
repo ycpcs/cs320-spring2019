@@ -54,17 +54,17 @@ All information about the course will be posted here.
 
 * **Mar 20** - The **midterm exam** will be in-class on **Friday, 4-5-19**.  It will be open notes and you can use any resource on the CS320 website, as well as your lab solutions.  A practice exam is posted.  We will use Wednesday, 4-3-19 to go over an end-to-end solution for the books database we've been working with, as well as a short review for the exam.  The exam will be 120 points, and it will be difficult to finish in the time allotted, if you do not know the material.  It will graded on a 100 point basis, thus it has a built-in 20-point curve.  You can choose which questions to concentrate your effort on, but all questions will be graded.
 
+-->
+
 * **Mar 11** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00 am, Saturday, 3-23-19**.
 
 * **Mar 11** - [Lab05: JDBC](labs/lab05.html) is posted.  It is **due by 7:00 am, Saturday, 3-16-19**.
 
-* **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00 am, Tuesday, 3-12-19**.
+* **Mar 11** - [Lab04: SQL, Queries, Joins](labs/lab04.html) is posted.  It is **due by 7:00 am, Wednesday, 3-13-19**.
 
 * **Mar 11** - [Assignment 3: Team Project Milestones](assign/assign03.html) **Team Milestone 1: Minimal Working System** is **due on Monday, March 25th**.    This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress on your UI structure and navigation.  You should have the vast majority of your servlets and JSPs defined, and be able to navigate between most, if not all, of your pages.  Your HTML/CSS will still be in a rough state - don't worry about making it "pretty", focus on functionality over form.  There is **NO** expectation for having any of your SQL database implemented or working.
 
-* **Feb 20** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, March 18th**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
-
--->
+* **Mar 11** - [Assignment 4: Individual Project Milestones](assign/assign04.html) **Individual Milestone 1: Baseline** is **due on Monday, March 18th**.  This will be an informal (at your desk) 2-4 minute (max) in-class demonstration of your progress, to date.
 
 * **Feb 27** - [Assignment 6: Problem Domain Analysis](assign/assign06.html) **due date moved to Monday, 3-4-19, by 7:00 am**
 
