@@ -37,15 +37,15 @@ Mar 13 | Database Applications - JDBC<br> JDBC Lab Assigned | [Lecture 14: Datab
 Mar 15 | Database Applications - ORM <br> ORM Lab Assigned | [Lecture 15: ORM, Designing a Persistence Layer](lectures/lecture15.html)<br> [Lab 6: ORM Lab](./labs/lab06.html)
 Mar 18 | Individual Project Milestone 1:<br> **Baseline Prototype** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Mar 20 | SQL/JDBC/ORM Review and ORM Lab Session (in class)
-Mar 22 | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
+Mar 22 | In-class Lab/Team Project Session
 Mar 25 | Team Project Milestone 1:<br> **Minimal Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Mar 27 | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
-Mar 29 | TBD (possible guest lecture or in-class Team Project Session)
+Mar 27 | Testing and Code Coverage | [Lecture 16: Testing](lectures/lecture16.html)
+Mar 29 | Ensuring Code Quality | [Lecture 17: Ensuring Code Quality](lectures/lecture17.html) 
 Apr 1  | Individual Project Milestone 2:<br> **50% Progress** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 3  | Library Application Example<br> Mid-Term Exam Review
 Apr 5  | **MID-TERM EXAM** (in class)
 Apr 8  | Team Project Milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
-Apr 10 | TBD (possible guest lecture or in-class Team Project Session)
+Apr 10 | Guest Lecture: Shane Shearer - VP of Innovation, AndCulture
 Apr 12 | TBD (possible guest lecture or in-class Team Project Session)
 Apr 15 | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
 Apr 16 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
