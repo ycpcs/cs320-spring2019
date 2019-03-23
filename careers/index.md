@@ -16,7 +16,7 @@ Job and Internship Opportunities and Postings
 =============================================
 A list of companies that have recently contacted the York College CS program about internships and full-time positions will be kept here, along with the job postings they may have supplied (last updated 3-23-19).
 
-* [AndCulture](https://andculture.com): [Software Applications Development Internship Progam](Andculture_Internship_Program-SLIP_PROGRAM_2019-FINAL.pdf)
+* [AndCulture](https://andculture.com): [Software Applications Development Internship Progam](AndcultureInternshipProgram-SLIP_PROGRAM_2019-FINAL.pdf)
 
 * [Becton Dickinson Diagnostic Systems](https://www.bd.com/en-us/company/about-bd): BD will be conducting interviews on campus for Summer co-ops and internships early in the Spring semester.  See the job postings on Spartan Career Path.
 
