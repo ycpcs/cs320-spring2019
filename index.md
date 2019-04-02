@@ -46,7 +46,9 @@ All information about the course will be posted here.
 
 * **Apr 3** - Mid-semester self/peer evaluations are **due by 7:00 am, Tuesday, 4-9-18.  See the instructions under [Assignment 11](assign/assign11.html).
 
-* **Mar 27** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this on Wednesday, April 3rd).
+* **Apr 3** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this on Wednesday, April 3rd).
+
+-->
 
 * **Mar 27** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, April 8th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
 
@@ -54,7 +56,7 @@ All information about the course will be posted here.
 
 * **Mar 20** - The **midterm exam** will be in-class on **Friday, 4-5-19**.  It will be open notes and you can use any resource on the CS320 website, as well as your lab solutions.  A practice exam is posted.  We will use Wednesday, 4-3-19 to go over an end-to-end solution for the books database we've been working with, as well as a short review for the exam.  The exam will be 120 points, and it will be difficult to finish in the time allotted, if you do not know the material.  It will graded on a 100 point basis, thus it has a built-in 20-point curve.  You can choose which questions to concentrate your effort on, but all questions will be graded.
 
--->
+
 
 * **Mar 11** - [Lab06: ORM](labs/lab06.html) is posted.  It is **due by 7:00 am, Saturday, 3-23-19**.
 
