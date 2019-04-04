@@ -90,7 +90,6 @@ Email address validation
 [A Java email validator class using regex (regular expressions)](https://www.mkyong.com/regular-expressions/how-to-validate-email-address-with-regular-expression/)
 
 
-
 CS320 Library Example Project
 =============================
 

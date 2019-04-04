@@ -46,13 +46,13 @@ Apr 3  | Library Application Example<br> Mid-Term Exam Review
 Apr 5  | **MID-TERM EXAM** (in class)
 Apr 8  | Team Project Milestone 2:<br> **Progress on Features** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 Apr 10 | Guest Lecture: Shane Shearer - VP of Innovation, AndCulture
-Apr 12 | TBD (possible guest lecture or in-class Team Project Session)
+Apr 12 | Library Example Review
 Apr 15 | Individual Project Milestone 3:<br> **FINAL PROJECT DEMOS** | [Assignment 4: Individual Project Milestones](assign/assign04.html)
-Apr 16 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
-Apr 17 | TBD (possible guest lecture or in-class Team Project Session)
+Apr 17 | Team Project Session (in class)
+Apr 18 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Apr 19 | **Spring Break, no class**
 Apr 22 | **Spring Break, no class**
-Apr 24 | TBD (possible guest lecture or in-class Team Project Session)
+Apr 24 | Team Project Session (in class)
 Apr 26 | Team Project Session (in class)
 Apr 29 | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 May 1  | Team Project Session (in class)

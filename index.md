@@ -44,11 +44,11 @@ All information about the course will be posted here.
 
 * **Apr 10** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, April 15th**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
 
+-->
+
 * **Apr 3** - Mid-semester self/peer evaluations are **due by 7:00 am, Tuesday, 4-9-18.  See the instructions under [Assignment 11](assign/assign11.html).
 
 * **Apr 3** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this on Wednesday, April 3rd).
-
--->
 
 * **Mar 27** - [Team Project Milestone 2: 50% Working System](assign/assign03.html) is **due Monday, April 8th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 1.  SQL database functionality is **NOT** required for this milestone (but **IS** required for the third milestone.)
 

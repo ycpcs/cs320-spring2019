@@ -13,7 +13,7 @@ There are two deliverables for your individual project (which you proposed in [A
 
 ## Report
 
-Submit a *short* (2-3 page) report describing *what you learned* from the experience of working on the project.  Some things you should address include:
+Submit a *short* (3-4 page) report describing *what you learned* from the experience of working on the project.  Some things you should address include:
 
 * What was the most frustrating aspect of the project?
 * What was the most satisfying aspect of the project?
