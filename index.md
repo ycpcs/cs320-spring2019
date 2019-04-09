@@ -38,15 +38,15 @@ All information about the course will be posted here.
 
 * **May 1** - [Team Project Milestone 4: 95% Working System](assign/assign03.html) is **due Wednesday, May 8th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 3.  You should have a 95% working system, with a higher degree of "polish".  All SQL database functionality should be implemented for this milestone.  See the guidelines for [Team Project Milestone 4](assign/assign03.html).
 
-* **Apr 10** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The report and code for your individual project are **due by 7:00 am, Tuesday, 4-16-19**.
-
-* **Apr 10** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, April 29th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
-
-* **Apr 10** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, April 15th**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
-
 -->
 
-* **Apr 3** - Mid-semester self/peer evaluations are **due by 7:00 am, Tuesday, 4-9-18**.  See the instructions under [Assignment 11](assign/assign11.html).
+* **Apr 8** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, April 29th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
+
+* **Apr 8** - [Assignment 9](assign/assign09.html) describes the deliverables for the individual project.  The report and code for your individual project are **due by 7:00 am, Thursday, 4-18-19**.
+
+* **Apr 8** - [Individual Project Milestone 3](assign/assign04.html) is **due Monday, 4-15-19**.  This will be your final Informal (at your desk) 2-4 minute (max) in-class demonstration of your individual project.
+
+* **Apr 3** - Mid-semester self/peer evaluations are **due by 7:00 am, Saturday, 4-13-19**.  See the instructions under [Assignment 11](assign/assign11.html).
 
 * **Apr 3** - Posted an extensive example project on the [Resources page](./resources) that incorporates the Web Applications lab solution (Lab02) with the ORM Lab solution (Lab06).  It provides a web application front-end to the ORM queries, as well as demonstrates the use of login session information, and incorporation of a SQL database persistence layer with a many-to-many relationship. We will review this in more depth in class on **Friday, April 12th**.
 
