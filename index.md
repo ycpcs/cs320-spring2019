@@ -40,7 +40,7 @@ All information about the course will be posted here.
 
 -->
 
-* **Apr 9 ** - Friday, 4-12-19 will be an in-class team work session, unencumbered by Professor Hake's presence, as I will be attending the Undergraduate Research Showcase with the YCAS Radio Telescope teams.  Even though I won't be in attendance, you are still required to show up for class, as this is an opportunity for you to spend an entire class period working together on your team project.  The in-class tutors/mentors will take attendance.
+* **Apr 9** - Friday, 4-12-19 will be an in-class team work session, unencumbered by Professor Hake's presence, as I will be attending the Undergraduate Research Showcase with the YCAS Radio Telescope teams.  Even though I won't be in attendance, you are still required to show up for class, as this is an opportunity for you to spend an entire class period working together on your team project.  The in-class tutors/mentors will take attendance.
 
 * **Apr 8** - [Team Project Milestone 3: 75% Working System, w/SQL DB](assign/assign03.html) is **due Monday, April 29th**.  This will be a FORMAL 8-10 minute (max) in-class team presentation/demonstration of your team's progress since milestone 2.  SQL database functionality **IS REQUIRED** for this milestone.  A large majority of your classes, methods, test cases, and web page navigation should be implemented by milestone 3, as well.
 
