@@ -52,13 +52,13 @@ Apr 17 | Team Project Session (in class)
 Apr 18 | Individual Project Code & Report Due | [Assignment 9: Individual Project Deliverables](assign/assign09.html)
 Apr 19 | **Spring Break, no class**
 Apr 22 | **Spring Break, no class**
-Apr 24 | Team Project Session (in class)
-Apr 26 | Team Project Session (in class)
+Apr 24 | Work Ethic Lecture
+Apr 26 | Exam Review and Team Project Session (in class)
 Apr 29 | Team Project Milestone 3:<br> **75% Working System** | [Assignment 3: Team Project Milestones](assign/assign03.html)
 May 1  | Team Project Session (in class)
 May 3  | Team Project Session (in class)
-May 6  | Team Project Session (in class)
-May 8  | **Last Class**<br> Team Project Milestone 4:<br> **95% Working System** | <br>[Assignment 3: Team Project Milestones](assign/assign03.html)
+May 6  | Start-Up Pitches for Summer Interns (and beyond)
+May 8  | Team Project Session (in class)
 May 11 | Team Project Code & Report Due | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 May 13 | **TEAM PROJECT FINAL PRESENTATIONS (Section 103)**<br>Final Exam Period (3:00 to 5:00) | [Assignment 8: Team Project Deliverables](assign/assign08.html)
 May 14 | Team Project Reflection Due<br>Team Project Self / Peer Evaluation Due | [Assignment 10: Team Project Reflection](assign/assign10.html)<br> [Assignment 11: Team Project Self / Peer Evaluation](assign/assign11.html)
